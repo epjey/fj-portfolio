@@ -1,0 +1,75 @@
+/** Public live projects outside the detailed case-study pages. */
+export const deployments = [
+  {
+    id: 'stratos-university',
+    number: '003',
+    title: 'Stratos University School Website',
+    shortTitle: 'Stratos University',
+    type: 'School Website',
+    description: 'A university-themed website project created as a front-end school website.',
+    technologies: [],
+    liveUrl: 'https://fj-adriano-website.netlify.app/',
+    sourceUrl: null,
+    preview: {
+      image: '/projects/previews/stratos-university.webp',
+      alt: 'Stratos University School Website home page',
+      width: 1522,
+      height: 735,
+      path: '/projects/previews/stratos-university.webp',
+    },
+  },
+  {
+    id: 'sekoy-estates',
+    number: '004',
+    title: 'Sekoy Estates',
+    type: 'Landing Page',
+    description:
+      'A responsive real-estate themed landing-page project built to practice front-end layout and styling.',
+    technologies: ['HTML', 'CSS'],
+    liveUrl: 'https://sekoye-estates.netlify.app/',
+    sourceUrl: 'https://github.com/epjey/Sekoy-Estates-Basic-Landing-Page',
+    preview: {
+      image: '/projects/previews/sekoy-estates.webp',
+      alt: 'Sekoy Estates landing page',
+      width: 1517,
+      height: 725,
+      path: '/projects/previews/sekoy-estates.webp',
+    },
+  },
+  {
+    id: 'sekoy-timepieces',
+    number: '005',
+    title: 'Sekoy Timepieces',
+    type: 'Landing Page',
+    description:
+      'A watch-business landing page featuring navigation, brand content, and responsive page sections.',
+    technologies: ['HTML', 'CSS'],
+    liveUrl: 'https://sekoytimepeieces.netlify.app/',
+    sourceUrl: 'https://github.com/epjey/First_Project_Landing_Page_For_Sekoy_Watch_Business',
+    preview: {
+      image: '/projects/previews/sekoy-timepieces.webp',
+      alt: 'Sekoy Timepieces landing page',
+      width: 1521,
+      height: 726,
+      path: '/projects/previews/sekoy-timepieces.webp',
+    },
+  },
+  {
+    id: 'skillcert',
+    number: '006',
+    title: 'SkillCert',
+    type: 'Web Application',
+    description:
+      'A learning and certificate-oriented application with authentication and course/exam flows. Presented as a deployed project, not a production-readiness claim.',
+    technologies: ['PHP'],
+    liveUrl: 'https://skillcert.fwh.is/landing/index.php',
+    sourceUrl: 'https://github.com/epjey/skillcert_webtech',
+    preview: {
+      image: '/projects/previews/skillcert.webp',
+      alt: 'SkillCert landing page',
+      width: 1520,
+      height: 726,
+      path: '/projects/previews/skillcert.webp',
+    },
+  },
+]
