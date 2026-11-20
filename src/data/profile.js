@@ -3,7 +3,7 @@
  * Public identity, contact routes, and optional local media destinations.
  */
 export const profile = {
-  name: 'Fj Adriano',
+  name: 'Froilan Adriano Jr',
   email: 'adrianofj61@gmail.com',
   github: 'https://github.com/epjey',
   linkedin: 'https://www.linkedin.com/in/fj-adriano-802250296',

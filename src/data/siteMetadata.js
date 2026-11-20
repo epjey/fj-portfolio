@@ -8,7 +8,7 @@ import { profile } from './profile.js'
 export const siteMetadata = {
   origin: '',
   description:
-    'Portfolio of Fj Adriano, an Information Technology student building software projects while exploring cloud engineering, DevOps, and software systems.',
+    'Portfolio of Froilan Adriano Jr, an Information Technology student building software projects while exploring cloud engineering, DevOps, and software systems.',
   image: '/profile/fj-adriano.webp',
   siteName: `${profile.name} Portfolio`,
 }
