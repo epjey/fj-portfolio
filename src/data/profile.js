@@ -6,7 +6,7 @@ export const profile = {
   name: 'Froilan Adriano Jr',
   email: 'adrianofj61@gmail.com',
   github: 'https://github.com/epjey',
-  linkedin: 'https://www.linkedin.com/in/fj-adriano-802250296',
+  linkedin: 'https://www.linkedin.com/in/froilan-adriano-jr-802250296',
   photo: '/profile/fj-adriano.webp',
   resume: null,
   location: 'Philippines',
