@@ -9,7 +9,7 @@ export const projects = [
       'A unified printing-business management ecosystem covering operational modules such as POS, inventory, HRMS, and finance/accounting workflows.',
     category: 'Business Management System',
     year: '2026',
-    stack: ['PHP', 'MySQL', 'JavaScript', 'Java'],
+    stack: ['PHP', 'MySQL', 'JavaScript'],
     liveUrl: 'https://piliprint-system.duckdns.org/piliprint_system/pos/login',
     featured: true,
     preview: {
@@ -53,7 +53,7 @@ export const projects = [
         groups: [
           { label: 'Core', items: ['Shared / Core concepts'] },
           { label: 'Operational modules', items: ['POS', 'Inventory', 'HRMS', 'Finance / Accounting'] },
-          { label: 'Technologies', items: ['PHP', 'MySQL', 'JavaScript', 'Java'] },
+          { label: 'Technologies', items: ['PHP', 'MySQL', 'JavaScript'] },
         ],
       },
       learnings: [],

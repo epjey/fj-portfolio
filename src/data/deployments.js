@@ -7,7 +7,7 @@ export const deployments = [
     shortTitle: 'Stratos University',
     type: 'School Website',
     description: 'A university-themed website project created as a front-end school website.',
-    technologies: [],
+    technologies: ['HTML', 'CSS'],
     liveUrl: 'https://fj-adriano-website.netlify.app/',
     sourceUrl: null,
     preview: {
@@ -61,7 +61,7 @@ export const deployments = [
     type: 'Web Application',
     description:
       'A learning and certificate-oriented application with authentication and course/exam flows. Presented as a deployed project, not a production-readiness claim.',
-    technologies: ['PHP'],
+    technologies: ['PHP', 'HTML', 'CSS'],
     liveUrl: 'https://skillcert.fwh.is/landing/index.php',
     sourceUrl: 'https://github.com/epjey/skillcert_webtech',
     preview: {
